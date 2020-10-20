@@ -1,0 +1,11 @@
+C:\Users\josuo\source\repos\PrimerLab\obj\Debug\PrimerLab.vbprojAssemblyReference.cache
+C:\Users\josuo\source\repos\PrimerLab\obj\Debug\PrimerLab.frmEquationSolver.resources
+C:\Users\josuo\source\repos\PrimerLab\obj\Debug\PrimerLab.Resources.resources
+C:\Users\josuo\source\repos\PrimerLab\obj\Debug\PrimerLab.vbproj.GenerateResource.cache
+C:\Users\josuo\source\repos\PrimerLab\bin\Debug\PrimerLab.exe.config
+C:\Users\josuo\source\repos\PrimerLab\bin\Debug\PrimerLab.exe
+C:\Users\josuo\source\repos\PrimerLab\bin\Debug\PrimerLab.pdb
+C:\Users\josuo\source\repos\PrimerLab\bin\Debug\PrimerLab.xml
+C:\Users\josuo\source\repos\PrimerLab\obj\Debug\PrimerLab.exe
+C:\Users\josuo\source\repos\PrimerLab\obj\Debug\PrimerLab.xml
+C:\Users\josuo\source\repos\PrimerLab\obj\Debug\PrimerLab.pdb

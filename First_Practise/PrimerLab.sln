@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PrimerLab", "PrimerLab.vbproj", "{5A149090-1F06-4D2A-A588-EC253F8AD568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A149090-1F06-4D2A-A588-EC253F8AD568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A149090-1F06-4D2A-A588-EC253F8AD568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A149090-1F06-4D2A-A588-EC253F8AD568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A149090-1F06-4D2A-A588-EC253F8AD568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8805C557-62A7-4127-8D4D-12FC1A962478}
+	EndGlobalSection
+EndGlobal

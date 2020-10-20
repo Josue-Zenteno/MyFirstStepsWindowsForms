@@ -1,0 +1,11 @@
+C:\Users\josuo\source\repos\SegundoLab\People\bin\Debug\People.exe.config
+C:\Users\josuo\source\repos\SegundoLab\People\bin\Debug\People.exe
+C:\Users\josuo\source\repos\SegundoLab\People\bin\Debug\People.pdb
+C:\Users\josuo\source\repos\SegundoLab\People\bin\Debug\People.xml
+C:\Users\josuo\source\repos\SegundoLab\People\obj\Debug\SegundoLab.vbprojAssemblyReference.cache
+C:\Users\josuo\source\repos\SegundoLab\People\obj\Debug\People.Resources.resources
+C:\Users\josuo\source\repos\SegundoLab\People\obj\Debug\People.frmPersons.resources
+C:\Users\josuo\source\repos\SegundoLab\People\obj\Debug\SegundoLab.vbproj.GenerateResource.cache
+C:\Users\josuo\source\repos\SegundoLab\People\obj\Debug\People.exe
+C:\Users\josuo\source\repos\SegundoLab\People\obj\Debug\People.xml
+C:\Users\josuo\source\repos\SegundoLab\People\obj\Debug\People.pdb
